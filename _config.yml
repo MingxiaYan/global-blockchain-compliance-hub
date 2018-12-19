@@ -10,5 +10,5 @@ markdown: kramdown
 permalink: none
 future : true
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
